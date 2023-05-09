@@ -33,5 +33,5 @@ class APODViewController: UIViewController {
 		dateForAPOD.topAnchor.constraint(equalTo: view.safeAreaLayoutGuide.topAnchor, constant: 30).isActive = true
 		dateForAPOD.centerXAnchor.constraint(equalTo: view.centerXAnchor).isActive = true
 	}
-
+ // Just to keep the github streak
 }
